@@ -16,9 +16,8 @@ redirect_from:
 
 ## Hi there, I'm Sílvio Cândido 👋 This is my personal webpage
 
-
-- 🔭 I’m currently a PhD student in Mechanical Engineering @ [University of Beira Interior](https://www.ubi.pt/) (Portugal)
-- 🌱 Working in Computational Fluid Dynamics (CFD) for Study the Whipping and Atomization of Electrohydrodynamic Liquid Jets. Have a look...
+- 🔭 I’m currently working as Mechanical Engineering @ [CERN](https://home.cern/) (Switzerland)
+- 🌱 Working in Computational Fluid Dynamics (CFD) for Thermo-Magnetohydrodynamics of Free Surface Liquid Metal Flows. Have a look...
 
 <br/> <img src='/images/s118.png' style='width: 100%; height: auto;'>
 
@@ -56,7 +55,7 @@ redirect_from:
 - Certified SolidWorks Associate - CSWA from Dassault Systèmes for Mechanical Design in SolidWorks (July 2018)
 
 ### Some Volunteer Activities:
-- Volunteer of Refood Covilhã, Covilhã, Portugal (2019-present)
+- Volunteer of Refood Covilhã, Covilhã, Portugal (2019-2024)
 - Tutor at STEAM junior academy at AJSTEAM UBI, Covilhã, Portugal (March 2023)
 - Conference Session Co-Chair at Conference IMECE2021 by ASME in the USA for Aerodynamics & Novel Aerospace Propulsion Systems topic (November 2021)
 
