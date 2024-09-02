@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, University of Beira Interior, 2024 (expected)
+* Ph.D in Mechanical Engineering, University of Beira Interior, 2024
 * M.S. in Electromechanical Engineering, University of Beira Interior, 2019
 * B.S. in Electromechanical Engineering, University of Beira Interior, 2017
 
