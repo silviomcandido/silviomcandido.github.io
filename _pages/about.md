@@ -22,9 +22,17 @@ redirect_from:
 <br/> <img src='/images/s118.png' style='width: 100%; height: auto;'>
 
 ## NEWS
+[2026 IPAC 17th International Particle Accelerator Conference (IPAC)](https://www.ipac26.org/welcome/), Deauville, France : <br>
+ - "Conceptual Comparison of Liquid Lead Flow Configurations for a Muon Collider" 
+ - "Comparative conceptual designs of liquid lead absorbers for the FCC-ee beamstrahlung dump" 
+
+[2025 IPAC 16th International Particle Accelerator Conference (IPAC)](https://ipac25.org/), Taipei, Taiwan : <br>
+ - "Conceptual design and optimization of a liquid lead circuit as beamstrahlung absorber for the CERN’s FCC" [DOI](https://doi.org/10.18429/JACoW-IPAC2025-THPB018)
+ - "Magnetohydrodynamic effects in liquid lead target concept for Muon Colliders" [DOI](https://doi.org/10.18429/JACoW-IPAC2025-THPB017)
+   
 [2023 IMECE® International Mechanical Engineering Congress & Exposition](https://event.asme.org/IMECE), New Orleans, LA, USA (29/10/2023 - 02/11/2023): <br>
- - "A Three-Dimensional Numerical Investigation of Taylor Cone Jet Instabilities Using the VOF Method" by S. Cândido & J. Páscoa
- - "Improving Efficiency of Automotive Coating and Curing Processes Through Deep Learning Algorithms and High-Fidelity CFD Modeling" by S. Cândido, M. Pendar & J. Páscoa
+ - "A Three-Dimensional Numerical Investigation of Taylor Cone Jet Instabilities Using the VOF Method" by S. Cândido & J. Páscoa  [DOI](https://doi.org/10.1115/IMECE2023-112763) 
+ - "Improving Efficiency of Automotive Coating and Curing Processes Through Deep Learning Algorithms and High-Fidelity CFD Modeling" by S. Cândido, M. Pendar & J. Páscoa [DOI](https://doi.org/10.1115/IMECE2023-112373)  
 
 [Encontro Ciência 2023 - Encontro com a Ciência e Tecnologia em Portugal](https://www.encontrociencia.pt/2023/pt), Aveiro, Portugal (05/07/2023 - 07/07/2023): <br>
  - e-Poster "Advances on Modelling the Atomization of Electrohydrodynamic Jets" <a href="/files/poster_encontrociencia2023.pdf" download>
@@ -55,6 +63,7 @@ redirect_from:
 - Certified SolidWorks Associate - CSWA from Dassault Systèmes for Mechanical Design in SolidWorks (July 2018)
 
 ### Some Volunteer Activities:
+- Rotaract Genève International, Genève, CH (2025--)
 - Volunteer of Refood Covilhã, Covilhã, Portugal (2019-2024)
 - Tutor at STEAM junior academy at AJSTEAM UBI, Covilhã, Portugal (March 2023)
 - Conference Session Co-Chair at Conference IMECE2021 by ASME in the USA for Aerodynamics & Novel Aerospace Propulsion Systems topic (November 2021)
