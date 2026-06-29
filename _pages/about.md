@@ -21,7 +21,9 @@ redirect_from:
 
 - ⚡ My background is in Computational Fluid Dynamics and electrohydrodynamic atomization. My research explored how electric fields can control liquid interfaces. The animation below illustrates a Taylor cone jet, a phenomenon central to electrohydrodynamic atomization and the main topic of my PhD work. [Check out](https://silviomcandido.github.io/webJet/index.html)
 
-<br/> <img src='/images/profile_anim_jet.gif' style='width: 60%; height: auto;'>
+<div style="text-align: center;">
+  <img src="/images/profile_anim_jet.gif" style="width: 60%; height: auto;">
+</div>
 
 ## NEWS
 [2026 IPAC 17th International Particle Accelerator Conference (IPAC)](https://www.ipac26.org/welcome/), Deauville, France : <br>
