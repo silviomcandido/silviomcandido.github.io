@@ -72,23 +72,25 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 200px;
+  width: clamp(120px, 20vw, 200px);
 
   @include breakpoint($large) {
     display: block;
-    width: 150px;
+    width: clamp(150px, 13vw, 230px);
     height: auto;
-  }
-
-  @include breakpoint($x-large) {
-    width: 260px;
   }
 
   img {
-    width: 200px;
-    max-width: none;
+    display: block;
+    width: 100%;
+    max-width: 100%;
     height: auto;
     border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
 }
 
