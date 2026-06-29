@@ -16,10 +16,11 @@ redirect_from:
 
 ## Hi there, I'm Sílvio Cândido 👋 This is my personal webpage
 
-- 🔭 I’m currently working as Mechanical Engineering @ [CERN](https://home.cern/) (Switzerland)
-- 🌊 My work focuses on CFD and multiphysics simulations of free-surface liquid-metal flows for high-power beam-intercepting systems.
+- 🔭 I’m currently working as a Mechanical Engineer at [CERN](https://home.cern/) in Switzerland.
+- 🌊 My work focuses on **CFD** and **multiphysics simulations** of **free-surface liquid-metal flows** for high-power beam-intercepting systems, including **heat transfer**, **thermal shocks**, **Magnetohydrodynamics**, and **two-phase flow**.
 
-- ⚡ My background is in Computational Fluid Dynamics and electrohydrodynamic atomization. My research explored how electric fields can control liquid interfaces. The animation below illustrates a Taylor cone jet, a phenomenon central to electrohydrodynamic atomization and the main topic of my PhD work. [Check out](https://silviomcandido.github.io/webJet/index.html)
+- ⚡ My background is in **Computational Fluid Dynamics** and **electrohydrodynamic atomization**. My PhD research explored how electric fields can control/induce the atomization of liquid jets. The animation below illustrates a **Taylor cone jet**, a phenomenon central to electrohydrodynamic atomization and the main topic of my PhD work.  
+[Explore the interactive Taylor cone jet simulation](https://silviomcandido.github.io/webJet/index.html)
 
 <div style="text-align: center;">
   <img src="/images/profile_anim_jet.gif" style="width: 60%; height: auto;">
