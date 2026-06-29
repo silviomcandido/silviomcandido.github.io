@@ -17,9 +17,11 @@ redirect_from:
 ## Hi there, I'm Sílvio Cândido 👋 This is my personal webpage
 
 - 🔭 I’m currently working as Mechanical Engineering @ [CERN](https://home.cern/) (Switzerland)
-- 🌱 Working in Computational Fluid Dynamics (CFD) for Thermo-Magnetohydrodynamics of Free Surface Liquid Metal Flows. Have a look...
+- 🌊 My work focuses on CFD and multiphysics simulations of free-surface liquid-metal flows for high-power beam-intercepting systems.
 
-<br/> <img src='/images/s118.png' style='width: 100%; height: auto;'>
+- ⚡ My background is in Computational Fluid Dynamics and electrohydrodynamic atomization. My research explored how electric fields can control liquid interfaces. The animation below illustrates a Taylor cone jet, a phenomenon central to electrohydrodynamic atomization and the main topic of my PhD work. [Check out](https://silviomcandido.github.io/webJet/index.html)
+
+<br/> <img src='/images/profile_anim_jet.gif' style='width: 100%; height: auto;'>
 
 ## NEWS
 [2026 IPAC 17th International Particle Accelerator Conference (IPAC)](https://www.ipac26.org/welcome/), Deauville, France : <br>
