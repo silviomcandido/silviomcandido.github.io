@@ -23,8 +23,8 @@ redirect_from:
 
 ## NEWS
 [2026 IPAC 17th International Particle Accelerator Conference (IPAC)](https://www.ipac26.org/welcome/), Deauville, France : <br>
- - "Conceptual Comparison of Liquid Lead Flow Configurations for a Muon Collider" 
- - "Comparative conceptual designs of liquid lead absorbers for the FCC-ee beamstrahlung dump" 
+ - "Conceptual Comparison of Liquid Lead Flow Configurations for a Muon Collider" [DOI](https://www.ipac26.org/prepress/doi/jacow-ipac2026-mop7137/index.html) 
+ - "Comparative conceptual designs of liquid lead absorbers for the FCC-ee beamstrahlung dump" [DOI](https://www.ipac26.org/prepress/doi/jacow-ipac2026-mop7139/index.html)  
 
 [2025 IPAC 16th International Particle Accelerator Conference (IPAC)](https://ipac25.org/), Taipei, Taiwan : <br>
  - "Conceptual design and optimization of a liquid lead circuit as beamstrahlung absorber for the CERN’s FCC" [DOI](https://doi.org/10.18429/JACoW-IPAC2025-THPB018)
