@@ -6,7 +6,7 @@ excerpt: "<br/><img src='/images/POF2-TEST.png' style='width: 600px; height: aut
 date: 2023-07-11
 venue: 'Physics of Fluids'
 paperurl: '10.1063/5.0156571'
-citation: 'Pendar, M., Cândido, S., Páscoa, J. (2023). &quot;Optimization of painting efficiency applying unique techniques of high-voltage conductors and nitrotherm spray: Developing deep learning models using computational fluid dynamics dataset&quot; <i>Physics of Fluids</i>. 35(7).'
+citation: 'Pendar, M., Cândido, S., Páscoa, J. (2023). &quot; Optimization of painting efficiency applying unique techniques of high-voltage conductors and nitrotherm spray: Developing deep learning models using computational fluid dynamics dataset&quot; <i>Physics of Fluids</i>. 35(7).'
 ---
 
 <p style="text-align: justify;">
