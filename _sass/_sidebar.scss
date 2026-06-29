@@ -72,11 +72,11 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: clamp(120px, 20vw, 200px);
+  width: clamp(90px, 18vw, 160px);
 
   @include breakpoint($large) {
     display: block;
-    width: clamp(150px, 13vw, 230px);
+    width: clamp(120px, 13vw, 190px);
     height: auto;
   }
 
@@ -93,7 +93,6 @@
     }
   }
 }
-
 .author__content {
   display: table-cell;
   vertical-align: top;
