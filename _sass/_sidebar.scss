@@ -72,11 +72,11 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: clamp(100px, 10vw, 140px);
+  width: clamp(120px, 10vw, 160px);
 
   @include breakpoint($large) {
     display: block;
-    width: clamp(120px, 10vw, 180px);
+    width: clamp(140px, 10vw, 200px);
     height: auto;
   }
 
