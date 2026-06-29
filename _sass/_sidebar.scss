@@ -76,11 +76,11 @@
   // set width only, for non-square avatars
   // height: 36px;
 
-  @include breakpoint($large) {
-    display: block;
-    width: clamp(190px, 16vw, 240px);
-    height: auto;
-  }
+@include breakpoint($large) {
+  display: block;
+  width: clamp(200px, 17vw, 260px);
+  height: auto;
+}
 
   img {
     display: block;
