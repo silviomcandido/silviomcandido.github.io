@@ -76,12 +76,12 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 200px;
+    width: 150px;
     height: auto;
   }
 
   @include breakpoint($x-large) {
-    width: 240px;
+    width: 260px;
   }
 
   img {
