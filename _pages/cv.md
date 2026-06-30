@@ -23,25 +23,25 @@ Education
 
 Experience
 ======
-* **Apr 2024–present: Mechanical Engineer, Geneva, Switzerland**
-  * CERN, European Organization for Nuclear Research
-  * <i>Design and simulation of high-power beam-intercepting systems for next-generation particle accelerators, with focus on CFD, multiphysics modelling, free-surface liquid-metal flows, heat transfer, thermal shocks, two-phase flow, and magnetohydrodynamics (MHD).</i>
+* **Mechanical Engineer**, CERN, Geneva, Switzerland  
+  *Apr 2024–present*  
+  <i>Design and simulation of high-power beam-intercepting systems for next-generation particle accelerators, with focus on CFD, multiphysics modelling, free-surface liquid-metal flows, heat transfer, thermal shocks, two-phase flow, and magnetohydrodynamics (MHD).</i>
 
-* **Jan 2024–Mar 2024: Mechanical Engineer R&D Consultant, Covilhã, Portugal**
-  * University of Beira Interior
-  * <i>Developed machine-learning-enhanced digital twin workflows by coupling CFD/CHT simulations with Python-based data pipelines and neural network models for the prediction of thermal fields, hot spots, and flow behaviour in industrial systems.</i>
+* **Mechanical Engineer R&D Consultant**, University of Beira Interior, Covilhã, Portugal  
+  *Jan 2024–Mar 2024*  
+  <i>Developed machine-learning-enhanced digital twin workflows by coupling CFD/CHT simulations with Python-based data pipelines and neural network models for the prediction of thermal fields, hot spots, and flow behaviour in industrial systems.</i>
 
-* **2019–2023: PhD Project Researcher, Covilhã, Portugal**
-  * Foundation for Science and Technology (FCT), University of Beira Interior
-  * <i>Developed custom multiphysics solvers in OpenFOAM for electrohydrodynamic, capillary, and multiphase flows, supported by large-scale HPC simulations, Python post-processing, and deep-learning-based surrogate modelling.</i>
+* **PhD Project Researcher**, Foundation for Science and Technology (FCT), University of Beira Interior, Covilhã, Portugal  
+  *Sep 2019–Dec 2023*  
+  <i>Developed custom multiphysics solvers in OpenFOAM for electrohydrodynamic, capillary, and multiphase flows, supported by large-scale HPC simulations, Python post-processing, and deep-learning-based surrogate modelling.</i>
 
-* **May 2023: Doctoral Research Internship, Timișoara, Romania**
-  * West University of Timișoara, Faculty of Physics
-  * <i>Short-term doctoral mobility focused on Lattice Boltzmann Methods for fluid dynamics and GPU-based parallel computing for the acceleration of numerical simulations.</i>
+* **Doctoral Research Internship**, West University of Timișoara, Faculty of Physics, Timișoara, Romania  
+  *May 2023*  
+  <i>Short-term doctoral mobility focused on Lattice Boltzmann Methods for fluid dynamics and GPU-based parallel computing for the acceleration of numerical simulations.</i>
 
-* **Summer 2017: Research Intern, Covilhã, Portugal**
-  * University of Beira Interior
-  * <i>Computational modelling of three-dimensional flow structures in a disk pump/Tesla turbine using SolidWorks.</i>
+* **Research Intern**, University of Beira Interior, Covilhã, Portugal  
+  *Summer 2017*  
+  <i>Computational modelling of three-dimensional flow structures in a disk pump/Tesla turbine using SolidWorks.</i>
 
 Publications
 ======
@@ -64,29 +64,32 @@ Communications
 
 Service and Leadership
 ======
-* **2026–2027: Secretary, Geneva, Switzerland**
-  * Rotaract Genève International — [Website](https://geneve-international.rotaract.ch/en/)
-  * <i>Member since 2026, contributing to the organization of service, networking, and community initiatives.</i>
+* **Secretary**, Rotaract Genève International, Geneva, Switzerland  
+  *2026–2027*  
+  <i>Member since 2026, contributing to the organization of service, networking, and community initiatives.</i>  
+  [Website](https://geneve-international.rotaract.ch/en/)
 
-* **2022–2023: Vice-President, Fiscal Council, Covilhã, Portugal**
-  * Happy Wish Junior Initiative — [LinkedIn](https://www.linkedin.com/company/happywish/posts/?feedView=all)
-  * <i>Supervised the financial management of the junior initiative and contributed to financial reporting activities.</i>
+* **Vice-President, Fiscal Council**, Happy Wish Junior Initiative, Covilhã, Portugal  
+  *2022–2023*  
+  <i>Supervised the financial management of the junior initiative and contributed to financial reporting activities.</i>  
+  [LinkedIn](https://www.linkedin.com/company/happywish/posts/?feedView=all)
 
-* **2021–2022: Finance Department Associate, Covilhã, Portugal**
-  * Happy Wish Junior Initiative — [LinkedIn](https://www.linkedin.com/company/happywish/posts/?feedView=all)
-  * <i>Supported financial management and administrative activities within the organization.</i>
+* **Finance Department Associate**, Happy Wish Junior Initiative, Covilhã, Portugal  
+  *2021–2022*  
+  <i>Supported financial management and administrative activities within the organization.</i>  
+  [LinkedIn](https://www.linkedin.com/company/happywish/posts/?feedView=all)
 
-* **March 2023: Tutor, Covilhã, Portugal**
-  * STEAM Junior Academy, AJSTEAM UBI
-  * <i>Supported educational activities promoting science, technology, engineering, arts, and mathematics.</i>
+* **Tutor**, STEAM Junior Academy, AJSTEAM UBI, Covilhã, Portugal  
+  *March 2023*  
+  <i>Supported educational activities promoting science, technology, engineering, arts, and mathematics.</i>
 
-* **November 2021: Conference Session Co-Chair**
-  * ASME IMECE2021, Aerodynamics & Novel Aerospace Propulsion Systems
-  * <i>Co-chaired a technical conference session in the area of aerodynamics and aerospace propulsion systems.</i>
+* **Conference Session Co-Chair**, ASME IMECE2021  
+  *November 2021*  
+  <i>Co-chaired a technical conference session on Aerodynamics & Novel Aerospace Propulsion Systems.</i>
 
-* **2019–2024: Volunteer, Covilhã, Portugal**
-  * Refood Covilhã
-  * <i>Contributed to local food redistribution and community support activities.</i>
+* **Volunteer**, Refood Covilhã, Covilhã, Portugal  
+  *2019–2024*  
+  <i>Contributed to local food redistribution and community support activities.</i>
 
 
 Skills
