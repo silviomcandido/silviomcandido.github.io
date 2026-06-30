@@ -29,10 +29,13 @@ Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+{% assign publications_sorted = site.publications | sort: "date" | reverse %}
+<ul>
+{% for post in publications_sorted %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
 Communications
 ======
   <ul>{% for post in site.talks %}
