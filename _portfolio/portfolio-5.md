@@ -14,7 +14,7 @@ The turbulent mixing is commonly described by two distinguished mixing scales. F
 Between both mixing situations, we can also define a meso-mixing, this is achieved by actuating typically on the turbulence. In this case, the turbulent kinetic energy, at the feed point to the mixer, must be enough to blend the added gas with the existing one.
 </p>
 
-## Govening Equations
+## Governing Equations
 
 ### Continuity equation:
 
