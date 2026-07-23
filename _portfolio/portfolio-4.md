@@ -1,5 +1,5 @@
 ---
-title: "CFD Turbomachinery "
+title: "Turbomachinery and Turbulent Mixing"
 excerpt: "
 <br/><img src='/images/portfolio_turbo.PNG'>"
 collection: portfolio
