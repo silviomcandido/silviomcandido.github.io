@@ -16,7 +16,7 @@ redirect_from:
 
 # Hi, I’m Sílvio Cândido 👋 
 
-**Mechanical Engineer, PhD | Thermal-Fluid and Multiphysics Systems**
+**Mechanical Engineer, PhD** - **Thermal-Fluid and Multiphysics Systems**
 
 - 🔭 I develop **mechanical**, **thermal-fluid** and **multiphysics systems** for demanding R&D applications. My work spans high-power energy-absorption systems, liquid-metal and gas-cooling concepts, electromagnetic flows, conjugate heat transfer and thermo-mechanical design.
 
