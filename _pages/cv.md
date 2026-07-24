@@ -68,8 +68,8 @@ Benmoussa, A., **Candido, S.**, Pendar, M. R., & Páscoa, J. C. (2026). *Journal
 
 Communications
 ======
-* **Invited Talk**, Global Symposium on Lead and Lead Alloy Cooled Nuclear Energy Science and Technology (GLANST 2024), ENEA Brasimone, Italy, 2024 [LINK](https://www.gen-4.org/resources/events/glanst-2024-global-symposium-lead-and-lead-alloy-cooled-nuclear-energy-science-and)
-  *Development of Liquid Pb Technologies for Beam Intercepting Devices at CERN: A Case Study for Muon Collider Target and FCC-ee Beamstrahlung Absorber*, M. Calviani & S. Candido (CERN)
+* **Invited Talk**, [Development of Liquid Pb Technologies for Beam Intercepting Devices at CERN: A Case Study for Muon Collider Target and FCC-ee Beamstrahlung Absorber](https://www.gen-4.org/resources/events/glanst-2024-global-symposium-lead-and-lead-alloy-cooled-nuclear-energy-science-and)  
+M. Calviani & S. Candido (CERN), *Global Symposium on Lead and Lead Alloy Cooled Nuclear Energy Science and Technology (GLANST 2024)*, ENEA Brasimone, Italy, 2024 
   
 {% assign talks_sorted = site.talks | sort: "date" | reverse %}
 <ul>
