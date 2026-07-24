@@ -55,9 +55,8 @@ Publications
 
 Communications
 ======
-* **Invited Talk**, [Global Symposium on Lead and Lead Alloy Cooled Nuclear Energy Science and Technology (GLANST 2024)](https://www.gen-4.org/resources/events/glanst-2024-global-symposium-lead-and-lead-alloy-cooled-nuclear-energy-science-and), ENEA Brasimone, Italy, 2024  
-  *Development of Liquid Pb Technologies for Beam Intercepting Devices at CERN: A Case Study for Muon Collider Target and FCC-ee Beamstrahlung Absorber*  
-  With M. Calviani, CERN
+* **Invited Talk**, Global Symposium on Lead and Lead Alloy Cooled Nuclear Energy Science and Technology (GLANST 2024), ENEA Brasimone, Italy, 2024 [LINK](https://www.gen-4.org/resources/events/glanst-2024-global-symposium-lead-and-lead-alloy-cooled-nuclear-energy-science-and)
+  *Development of Liquid Pb Technologies for Beam Intercepting Devices at CERN: A Case Study for Muon Collider Target and FCC-ee Beamstrahlung Absorber*, M. Calviani & S. Candido (CERN)
   
 {% assign talks_sorted = site.talks | sort: "date" | reverse %}
 <ul>
