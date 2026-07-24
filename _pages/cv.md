@@ -14,29 +14,30 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Mechanical Engineering**, University of Beira Interior, 2024  
-  Thesis: *Study of the Atomization of Electrohydrodynamic Jets: modelling, performance and applications* [PT](http://hdl.handle.net/10400.6/14426)
+  Thesis: *Study of the Atomization of Electrohydrodynamic Jets: modelling, performance and applications* [LINK.PT](http://hdl.handle.net/10400.6/14426)  
+  **Approved with Distinction**
 
 * **M.Sc. in Electromechanical Engineering**, University of Beira Interior, 2019  
-  <i>Thesis: *Studies on Flow Uniformization in Mixing Chambers using CFD - Analysis of the CLOUD experiment chamber at CERN* [PT](http://hdl.handle.net/10400.6/10068)</i><br>
-  Merit Award — highest academic average in the MSc programme, 2018/2019
+  Dissertation: *Studies on Flow Uniformization in Mixing Chambers using CFD - Analysis of the CLOUD experiment chamber at CERN* [LINK.PT](http://hdl.handle.net/10400.6/10068)<br>
+  **Merit Award** — highest academic average in the MSc programme, 2018/2019
 
 * **B.Sc. in Electromechanical Engineering**, University of Beira Interior, 2017
 
 Experience
 ======
-* **Mechanical Engineer**, CERN, Geneva, Switzerland  
+* **Mechanical Engineer / CERN Fellow**, CERN, Geneva, Switzerland  
   *Apr 2024–present*  
-  <i>Design and simulation of high-power beam-intercepting systems for next-generation particle accelerators, with focus on CFD, multiphysics modelling, free-surface liquid-metal flows, heat transfer, thermal shocks, two-phase flow, and magnetohydrodynamics (MHD).</i>
+  Design and multiphysics analysis of high-power beam-intercepting systems for next-generation particle accelerators. Work includes thermal-fluid system development, free-surface liquid-metal flows, conjugate heat transfer, thermal shock, structural assessment, two-phase flow and magnetohydrodynamics. Responsible for translating simulation results into engineering concepts, operating requirements and design recommendations.
 
 * **Mechanical Engineer R&D Consultant**, University of Beira Interior, Covilhã, Portugal  
   *Jan 2024–Mar 2024*  
-  <i>Developed machine-learning-enhanced digital twin workflows by coupling CFD/CHT simulations with Python-based data pipelines and neural network models for the prediction of thermal fields, hot spots, and flow behaviour in industrial systems.</i>
+  Developed computational workflows combining CFD, conjugate heat transfer, Python-based data processing and machine-learning models. The work focused on predicting thermal and flow fields, identifying hot spots and supporting the development of simulation-based industrial digital twins.
 
-* **PhD Project Researcher**, Foundation for Science and Technology (FCT), University of Beira Interior, Covilhã, Portugal  
+* **PhD Researcher — Computational Multiphysics**, Foundation for Science and Technology (FCT) & University of Beira Interior, Covilhã, Portugal  
   *Sep 2019–Dec 2023*  
-  <i>Developed custom multiphysics solvers in OpenFOAM for electrohydrodynamic, capillary, and multiphase flows, supported by large-scale HPC simulations, Python post-processing, and deep-learning-based surrogate modelling.</i>
+  Developed custom OpenFOAM solvers for electrohydrodynamic, capillary and multiphase flows. Conducted large-scale HPC simulations, model verification and validation, Python-based data analysis, and reduced-order and deep-learning surrogate modelling.
 
-* **Doctoral Research Internship**, West University of Timișoara, Faculty of Physics, Timișoara, Romania  
+* **Visiting Doctoral Researcher**, West University of Timișoara, Faculty of Physics, Timișoara, Romania  
   *May 2023*  
   <i>Short-term doctoral mobility focused on Lattice Boltzmann Methods for fluid dynamics and GPU-based parallel computing for the acceleration of numerical simulations.</i>
 
