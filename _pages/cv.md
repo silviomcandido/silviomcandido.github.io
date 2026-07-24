@@ -47,14 +47,10 @@ Experience
 
 Publications
 ======
-Selected peer-reviewed journal publications. The complete publication record is available on <u><a href="https://scholar.google.pt/citations?hl=pt-PT&user=SdNOWvEAAAAJ">my Google Scholar profile</a>.</u>
-
-**Preprints**
+Selected key publications. The complete publication record is available on <u><a href="https://scholar.google.pt/citations?hl=pt-PT&user=SdNOWvEAAAAJ">my Google Scholar profile</a>.</u>
 
 * [**Design and modeling of a liquid-lead dump concept for beamstrahlung radiation absorption in the CERN Future Circular Electron–Positron Collider**](https://doi.org/10.48550/arXiv.2601.18470)  
 **Candido, S.**, Ximenes, R. F., Lechner, A., Frasca, A., Lerner, G., Marcone, A. P., et al. (2026). arXiv preprint, arXiv:2601.18470.  
-
-**Peer-reviewed journal articles**  
 
 * [**Numerical investigation of electrospray plume control using high-voltage ring conductors**](https://doi.org/10.1016/j.jaerosci.2026.106814)  
 Benmoussa, A., **Candido, S.**, Pendar, M. R., & Páscoa, J. C. (2026). *Journal of Aerosol Science*, 106814.  
@@ -68,7 +64,7 @@ Benmoussa, A., **Candido, S.**, Pendar, M. R., & Páscoa, J. C. (2026). *Journal
 
 Communications
 ======
-* **Invited Talk**, [Development of Liquid Pb Technologies for Beam Intercepting Devices at CERN: A Case Study for Muon Collider Target and FCC-ee Beamstrahlung Absorber](https://www.gen-4.org/resources/events/glanst-2024-global-symposium-lead-and-lead-alloy-cooled-nuclear-energy-science-and)  
+* **Invited Talk**, [**Development of Liquid Pb Technologies for Beam Intercepting Devices at CERN: A Case Study for Muon Collider Target and FCC-ee Beamstrahlung Absorber**](https://www.gen-4.org/resources/events/glanst-2024-global-symposium-lead-and-lead-alloy-cooled-nuclear-energy-science-and)  
 M. Calviani & S. Candido (CERN), *Global Symposium on Lead and Lead Alloy Cooled Nuclear Energy Science and Technology (GLANST 2024)*, ENEA Brasimone, Italy, 2024 
   
 {% assign talks_sorted = site.talks | sort: "date" | reverse %}
