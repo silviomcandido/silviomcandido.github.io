@@ -17,7 +17,8 @@ Education
   Thesis: *Study of the Atomization of Electrohydrodynamic Jets: modelling, performance and applications* [PT](http://hdl.handle.net/10400.6/14426)
 
 * **M.Sc. in Electromechanical Engineering**, University of Beira Interior, 2019  
-  Thesis: *Studies on Flow Uniformization in Mixing Chambers using CFD - Analysis of the CLOUD experiment chamber at CERN* [PT](http://hdl.handle.net/10400.6/10068)
+  <i>Thesis: *Studies on Flow Uniformization in Mixing Chambers using CFD - Analysis of the CLOUD experiment chamber at CERN* [PT](http://hdl.handle.net/10400.6/10068)</i><br>
+  Merit Award — highest academic average in the MSc programme, 2018/2019
 
 * **B.Sc. in Electromechanical Engineering**, University of Beira Interior, 2017
 
@@ -61,6 +62,14 @@ Communications
 {% endfor %}
 </ul>
 
+Skills
+======
+* **Simulation & Multiphysics:** CFD, CHT, multiphase flows, free-surface flows, turbulence modelling, heat transfer, thermo-mechanical analysis, FSI, MHD
+* **Software & Tools:** OpenFOAM, ANSYS Fluent, ANSYS Mechanical, LS-DYNA, SolidWorks, SolidWorks Flow Simulation, Basilisk
+* **Programming & Data:** Python, C++, MATLAB, SQL, PyTorch, Power BI
+* **HPC & Workflows:** Linux, SLURM, parallel computing, automated post-processing, surrogate modelling
+* **Certifications:** Certified SolidWorks Associate (CSWA), Lean Six Sigma Yellow Belt
+* **Languages:** Portuguese, English, French
 
 Service and Leadership
 ======
@@ -90,13 +99,3 @@ Service and Leadership
 * **Volunteer**, Refood Covilhã, Covilhã, Portugal  
   *2019–2024*  
   <i>Contributed to local food redistribution and community support activities.</i>
-
-
-Skills
-======
-* **Simulation & Multiphysics:** CFD, CHT, multiphase flows, free-surface flows, turbulence modelling, heat transfer, thermo-mechanical analysis, FSI, MHD
-* **Software & Tools:** OpenFOAM, ANSYS Fluent, ANSYS Mechanical, LS-DYNA, SolidWorks, SolidWorks Flow Simulation, Basilisk
-* **Programming & Data:** Python, C++, MATLAB, SQL, PyTorch, Power BI
-* **HPC & Workflows:** Linux, SLURM, parallel computing, automated post-processing, surrogate modelling
-* **Certifications:** Certified SolidWorks Associate (CSWA), Lean Six Sigma Yellow Belt
-* **Languages:** Portuguese, English, French
