@@ -14,13 +14,19 @@ redirect_from:
     }
   </style>
 
-## Hi there, I'm Sílvio Cândido 👋 This is my personal webpage
+# Hi, I’m Sílvio Cândido 👋 
 
+**Mechanical Engineer, PhD | Thermal-Fluid and Multiphysics Systems**
+
+- 🔭 I develop **mechanical**, **thermal-fluid** and **multiphysics systems** for demanding R&D applications. My work spans high-power energy-absorption systems, liquid-metal and gas-cooling concepts, electromagnetic flows, conjugate heat transfer and thermo-mechanical design.
+
+- ⚡ I combine first-principles engineering, numerical modelling and multidisciplinary system development to move projects from early concepts toward validated designs and prototypes.
+  
 - 🔭 I’m currently working as a Mechanical Engineer at [CERN](https://home.cern/) in Switzerland.
-- 🌊 My work focuses on **CFD** and **multiphysics simulations** of **free-surface liquid-metal flows** for high-power beam-intercepting systems, including **heat transfer**, **thermal shocks**, **Magnetohydrodynamics**, and **two-phase flow**.
-
-- ⚡ My background is in **Computational Fluid Dynamics** and **electrohydrodynamic atomization**. My PhD research explored how electric fields can control/induce the atomization of liquid jets. The animation below illustrates a **Taylor cone jet**, a phenomenon central to electrohydrodynamic atomization and the main topic of my PhD work.  
+  
+- 🌊 My work focuses on **multiphysics simulations**, including **heat transfer**, **thermal shocks**, **Magnetohydrodynamics**, and **multiphase flow**. My background is in **Computational Fluid Dynamics** and **Electrohydrodynamic atomization**. My PhD research explored how electric fields can control/induce the atomization of liquid jets. The animation below illustrates a **Taylor cone jet**, a phenomenon central to electrohydrodynamic atomization and the main topic of my PhD work.  
 [Explore the interactive Taylor cone jet simulation](https://silviomcandido.github.io/webJet/index.html)
+
 
 <div style="text-align: center;">
   <img src="/images/profile_anim_jet.gif" style="width: 60%; height: auto;">
@@ -39,14 +45,9 @@ redirect_from:
  - "A Three-Dimensional Numerical Investigation of Taylor Cone Jet Instabilities Using the VOF Method" by S. Cândido & J. Páscoa  [DOI](https://doi.org/10.1115/IMECE2023-112763) 
  - "Improving Efficiency of Automotive Coating and Curing Processes Through Deep Learning Algorithms and High-Fidelity CFD Modeling" by S. Cândido, M. Pendar & J. Páscoa [DOI](https://doi.org/10.1115/IMECE2023-112373)  
 
-[Encontro Ciência 2023 - Encontro com a Ciência e Tecnologia em Portugal](https://www.encontrociencia.pt/2023/pt), Aveiro, Portugal (05/07/2023 - 07/07/2023): <br>
- - e-Poster "Advances on Modelling the Atomization of Electrohydrodynamic Jets" <a href="/files/poster_encontrociencia2023.pdf" download>
-  <img width="44" height="44" src="https://img.icons8.com/glyph-neue/64/228BE6/export-pdf.png" alt="export-pdf"/>
-</a>
+### Areas of Expertise
 
-
-
-## A bit more about me...
+Mechanical and system design · Thermal-fluid engineering · Multiphysics modelling · Numerical methods and validation
 
   <div class="container">
     <a href="https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=pt-PT">
@@ -62,19 +63,6 @@ redirect_from:
       <img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
     </a>
   </div>
-
-### Certifications:
-- Lean Six Sigma Yellow Belt from The Lean Six Sigma Company Portugal (April 2023)
-- Certified SolidWorks Associate - CSWA from Dassault Systèmes for Mechanical Design in SolidWorks (July 2018)
-
-### Some Volunteer Activities:
-- Rotaract Genève International, Genève, CH (2025--)
-- Volunteer of Refood Covilhã, Covilhã, Portugal (2019-2024)
-- Tutor at STEAM junior academy at AJSTEAM UBI, Covilhã, Portugal (March 2023)
-- Conference Session Co-Chair at Conference IMECE2021 by ASME in the USA for Aerodynamics & Novel Aerospace Propulsion Systems topic (November 2021)
-
-
-
 
 
 
