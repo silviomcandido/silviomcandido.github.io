@@ -78,7 +78,7 @@ Skills
 ======
 * **Simulation & Multiphysics:** CFD, CHT, multiphase flows, free-surface flows, turbulence modelling, heat transfer, thermo-mechanical analysis, FSI, MHD
 * **Software & Tools:** OpenFOAM, ANSYS Fluent, ANSYS Mechanical, LS-DYNA, SolidWorks, SolidWorks Flow Simulation, Basilisk
-* **Programming & Data:** Python, C++, MATLAB, SQL, PyTorch, Power BI
+* **Programming & Data:** Python, C++, MATLAB, SQL, TensorFlow, Power BI
 * **HPC & Workflows:** Linux, SLURM, parallel computing, automated post-processing, surrogate modelling
 * **Certifications:** Certified SolidWorks Associate (CSWA), Lean Six Sigma Yellow Belt
 * **Languages:** Portuguese, English, French
