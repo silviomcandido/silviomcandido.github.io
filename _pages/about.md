@@ -20,12 +20,13 @@ redirect_from:
 
 - 🔭 I develop **mechanical**, **thermal-fluid** and **multiphysics systems** for demanding R&D applications. My work spans high-power energy-absorption systems, liquid-metal and gas-cooling concepts, electromagnetic flows, conjugate heat transfer and thermo-mechanical design.
 
-- ⚡ I combine first-principles engineering, numerical modelling and multidisciplinary system development to move projects from early concepts toward validated designs and prototypes.
+- 🔭 I’m currently working as a **Mechanical Engineer at [CERN](https://home.cern/)**, Switzerland.
   
-- 🔭 I’m currently working as a Mechanical Engineer at [CERN](https://home.cern/) in Switzerland.
-  
-- 🌊 My work focuses on **multiphysics simulations**, including **heat transfer**, **thermal shocks**, **Magnetohydrodynamics**, and **multiphase flow**. My background is in **Computational Fluid Dynamics** and **Electrohydrodynamic atomization**. My PhD research explored how electric fields can control/induce the atomization of liquid jets. The animation below illustrates a **Taylor cone jet**, a phenomenon central to electrohydrodynamic atomization and the main topic of my PhD work.  
-[Explore the interactive Taylor cone jet simulation](https://silviomcandido.github.io/webJet/index.html)
+- 🌊 My work focuses on **multiphysics simulations**, including **heat transfer**, **Electro-** and **Magnetohydrodynamics**, and **multiphase flow**. My background is in **Computational Fluid Dynamics** and **Multiphysics**.
+
+## Projects 
+[**EletroJetFlow**](https://silviomcandido.github.io/webJet/index.html) - **Electrohydrodynamic Jet Flow Computational Simulation**
+- My PhD research project explored how electric fields can control/induce the atomization of liquid jets. The animation below illustrates a **Taylor cone jet**, a phenomenon central to electrohydrodynamic atomization and the main topic of my PhD work.
 
 
 <div style="text-align: center;">
