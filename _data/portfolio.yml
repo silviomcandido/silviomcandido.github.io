@@ -24,6 +24,8 @@
           url: "https://doi.org/10.18429/JACoW-IPAC2026-MOP7139"
         - label: "FCC Week 2025 talk"
           url: "https://indico.cern.ch/event/1408515/contributions/6514095"
+        - label: "HPTW 2026 talk"
+          url: "https://indico.cern.ch/event/1352282/contributions/7265842/"
 
     - title: "Liquid-lead jet target in a 20 T magnetic field (Muon Collider)"
       images: ["portfolio/mc-pb-jet.gif"]
@@ -36,6 +38,8 @@
           url: "https://doi.org/10.18429/JACoW-IPAC2025-THPB017"
         - label: "IPAC'26"
           url: "https://doi.org/10.18429/JACoW-IPAC2026-MOP7137"
+        - label: "IMCC 2026 talk"
+          url: "https://indico.cern.ch/event/1615465/contributions/7137198/"
 
     - title: "Helium-cooled graphite target for 2–4 MW pulsed beams (Muon Collider)"
       images: ["portfolio/mc-graphite-he-flow.gif"]
@@ -43,6 +47,9 @@
       credit_url: "https://indico.cern.ch/event/1615465/contributions/7137197/"
       summary: "Designed a graphite production target for multi-megawatt pulsed proton beams: optimised the helium cooling (mass flow, annular gap, pressure drop), proposed a titanium flow-guiding vessel, and verified thermal stresses and the thermal-shock stress waves from nanosecond pulses."
       tools: "ANSYS Mechanical, LS-DYNA (explicit dynamics)"
+      links:
+        - label: "IMCC 2026 talk"
+          url: "https://indico.cern.ch/event/1615465/contributions/7137197/"
 
 - group: "PhD and research — Electrohydrodynamics and data-driven models"
   items:
