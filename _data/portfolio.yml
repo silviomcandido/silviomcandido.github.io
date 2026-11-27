@@ -1,0 +1,105 @@
+# Portfolio entries, shown on /portfolio/ in this order.
+# images: paths inside /images/. The first one is the main picture; the rest appear as small thumbnails.
+# Every image opens larger when clicked.
+
+- group: "CERN — High-power systems for particle accelerators"
+  items:
+    - title: "Liquid-lead beamstrahlung dump for the FCC-ee"
+      summary: "Baseline absorber for the 370 kW photon beams emitted at the collision points of CERN's next collider. I conceived the flowing liquid-lead (CUSP) concept and took it from numerical proof of concept to integration in the collider complex."
+      bullets:
+        - "Iterated free-surface configurations until the flowing lead absorbs ~95% of the deposited power (multiphase CFD, conjugate heat transfer, structural analysis)."
+        - "Engineered the 300 kg/s liquid-lead circuit: P&IDs, pipe sizing and hydraulic architecture (flow distribution, pumping, inventory, cover gas)."
+        - "Specified component requirements and interfaces, including the electromagnetic pump for a supplier manufacturing study, and the system functional requirements for the FMEA."
+      outcome: "Now the baseline design for the FCC-ee beamstrahlung dump."
+      tools: "Multiphase free-surface CFD, conjugate heat transfer, structural FEA, P&IDs"
+      links:
+        - label: "PRAB paper (2026)"
+          url: "https://doi.org/10.1103/t6qd-3g4k"
+        - label: "IPAC'25"
+          url: "https://doi.org/10.18429/JACoW-IPAC2025-THPB018"
+        - label: "IPAC'26"
+          url: "https://doi.org/10.18429/JACoW-IPAC2026-MOP7139"
+        - label: "FCC Week 2025 talk"
+          url: "https://indico.cern.ch/event/1408515/contributions/6514095"
+
+    - title: "Liquid-lead jet target in a 20 T magnetic field (Muon Collider)"
+      summary: "A compact liquid-lead jet target, with its collection pool, for a future muon collider. Magnetohydrodynamic CFD quantifies how the 20 T solenoid field deforms, damps and stabilises the jet."
+      tools: "OpenFOAM, ANSYS Fluent (MHD, VOF)"
+      links:
+        - label: "IPAC'25"
+          url: "https://doi.org/10.18429/JACoW-IPAC2025-THPB017"
+        - label: "IPAC'26"
+          url: "https://doi.org/10.18429/JACoW-IPAC2026-MOP7137"
+
+    - title: "Helium-cooled graphite target for 2–4 MW pulsed beams (Muon Collider)"
+      summary: "Designed a graphite production target for multi-megawatt pulsed proton beams: optimised the helium cooling (mass flow, annular gap, pressure drop), proposed a titanium flow-guiding vessel, and verified thermal stresses and the thermal-shock stress waves from nanosecond pulses."
+      tools: "ANSYS Mechanical, LS-DYNA (explicit dynamics)"
+
+- group: "PhD and research — Electrohydrodynamics and data-driven models"
+  items:
+    - title: "3D electrohydrodynamic jet solver"
+      images: ["portfolio/ehd-3d-jet-potential.jpg", "portfolio/ehd-2d-jet-fieldlines.jpg", "portfolio/ehd-nozzle-mesh.jpg"]
+      summary: "A two-phase solver (OpenFOAM/C++) that predicts how electrically charged liquid jets (Taylor cone jets) deform, become unstable and break into droplets. Couples the electrostatic field, Maxwell stresses and charge conservation with VOF and level-set interface tracking."
+      outcome: "Validated within 2% against benchmarks and experiments; first simulations to capture the 3D whipping instabilities of Taylor cone jets."
+      tools: "OpenFOAM/C++, HPC (MPI, SLURM) — PI of two national supercomputing projects"
+      links:
+        - label: "Code (GitHub)"
+          url: "https://github.com/silviomcandido/interIsoFoamEHD"
+        - label: "Physics of Fluids (2023)"
+          url: "https://doi.org/10.1063/5.0151109"
+        - label: "PhD thesis"
+          url: "https://hdl.handle.net/10400.6/14426"
+        - label: "ElectroJetFlow website"
+          url: "https://silviomcandido.github.io/webJet/index.html"
+
+    - title: "Electrospray plume control with high-voltage ring electrodes"
+      images: ["espray-ring-conductor.jpg"]
+      summary: "A 3D electrospray model predicting plume development and droplet deposition, with the space-charge field and Coulomb and image forces on the charged droplets coupled to the gas flow. Used to optimise ring electrodes that focus and control the spray."
+      tools: "OpenFOAM/C++"
+      links:
+        - label: "Journal of Aerosol Science (2026)"
+          url: "https://doi.org/10.1016/j.jaerosci.2026.106814"
+
+    - title: "Reduced-order models of jet breakup"
+      images: ["portfolio/rom-ehd-breakup.jpg"]
+      summary: "Modal decomposition (POD and DMD) of electrohydrodynamic simulations to reveal the structures that drive droplet emission, and a reduced-order model that reconstructs the velocity and electric-charge fields at a fraction of the cost."
+      tools: "Python"
+      links:
+        - label: "Int. J. Eng. Sci. (2023)"
+          url: "https://doi.org/10.1016/j.ijengsci.2023.103947"
+
+    - title: "Neural-network surrogates for electrospray thrusters"
+      images: ["portfolio/ann-multistage-ehd.jpg"]
+      summary: "Neural networks trained on high-fidelity simulations predict jet and droplet behaviour for operating conditions never simulated, including the effect of extractor and acceleration plates in colloid thrusters."
+      outcome: "Reproduced deposition areas within ~1% using only 10% of the simulations."
+      tools: "Python, PyTorch, TensorFlow"
+      links:
+        - label: "Code (GitHub)"
+          url: "https://github.com/silviomcandido/electrostatic-spray-surrogate"
+        - label: "Physics of Fluids (2024)"
+          url: "https://doi.org/10.1063/5.0205454"
+        - label: "Physics of Fluids (2023)"
+          url: "https://doi.org/10.1063/5.0156571"
+
+    - title: "Digital twin of an automotive paint-curing oven"
+      images: ["portfolio/digital-twin-curing-oven.jpg"]
+      summary: "Led the machine-learning development of a digital twin for a multi-zone curing oven: autoencoders trained on CFD predict temperature and flow fields for new operating conditions, to find hot spots and curing non-uniformities."
+      tools: "CFD, Python, autoencoders"
+      links:
+        - label: "IMECE2023 paper"
+          url: "https://doi.org/10.1115/IMECE2023-112373"
+
+- group: "Earlier work — Turbulent mixing and turbomachinery"
+  items:
+    - title: "Gas mixing in the CLOUD chamber at CERN (MSc)"
+      images: ["portfolio/cloud-chamber-mixing.jpg", "portfolio/axial-fan-mixing.jpg", "case_mixing.gif"]
+      summary: "CFD of the mixing fans and gas injection in the CLOUD experiment chamber, to assess and improve how uniformly gases mix inside it. Multiphase injection, turbulence modelling, multi-region meshing and sliding rotating regions."
+      tools: "CFD (SST and SAS turbulence models), Pointwise meshing"
+      links:
+        - label: "MSc dissertation"
+          url: "https://hdl.handle.net/10400.6/10068"
+
+    - title: "Disk (Tesla) turbine"
+      images: ["portfolio/disk-turbine.jpg"]
+      summary: "3D flow structures between the rotating disks of a disk pump / Tesla turbine (research internship)."
+      tools: "SolidWorks"

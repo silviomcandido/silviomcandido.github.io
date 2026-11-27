@@ -6,10 +6,53 @@ author_profile: true
 ---
 
 {% include base_path %}
+<style>
+  .pf-group { margin-top: 1.6em; }
+  .pf-entry { display: flex; gap: 1.3em; align-items: flex-start; margin: 0 0 1.8em 0; font-size: 0.85em; }
+  .pf-media { flex: 0 0 230px; }
+  .pf-main img { width: 230px; height: 160px; object-fit: cover; border-radius: 4px; border: 1px solid #e5e5e5; display: block; object-position: center 20%; }
+  .pf-more { display: flex; gap: 6px; margin-top: 6px; }
+  .pf-more img { width: 72px; height: 52px; object-fit: cover; border-radius: 3px; border: 1px solid #e5e5e5; display: block; object-position: center 20%; }
+  .pf-media a { cursor: zoom-in; }
+  .pf-media img:hover { opacity: 0.85; }
+  .pf-text { flex: 1; }
+  .pf-text h3 { margin: 0 0 0.3em 0; font-size: 1.15em; }
+  .pf-text p, .pf-text ul { margin: 0 0 0.45em 0; }
+  .pf-text ul { padding-left: 1.2em; }
+  .pf-outcome { font-weight: 600; }
+  .pf-tools { color: #666; }
+  .pf-links a { margin-right: 0.9em; white-space: nowrap; }
+  @media (max-width: 600px) {
+    .pf-entry { flex-direction: column; }
+    .pf-media, .pf-main img { width: 100%; flex-basis: auto; }
+    .pf-main img { height: auto; }
+  }
+</style>
 
-<p>Selected engineering projects: high-power liquid-metal systems for particle accelerators at CERN, and earlier work on electrohydrodynamic flows, surrogate models and turbulent mixing.</p>
+<p>Selected engineering projects: high-power liquid-metal systems for particle accelerators at CERN, and earlier work on electrohydrodynamic flows, data-driven models and turbulent mixing. Click an image to enlarge it.</p>
 
-{% assign projects = site.portfolio | sort: "order" %}
-{% for post in projects %}
-  {% include archive-single.html %}
+{% for group in site.data.portfolio %}
+<h2 class="pf-group">{{ group.group }}</h2>
+{% for e in group.items %}
+<div class="pf-entry">
+{% if e.images %}
+<div class="pf-media">
+<a class="pf-main image-popup" href="{{ base_path }}/images/{{ e.images[0] }}" title="{{ e.title | escape }}"><img src="{{ base_path }}/images/{{ e.images[0] }}" alt="{{ e.title | escape }}" loading="lazy"></a>
+{% if e.images.size > 1 %}
+<div class="pf-more">
+{% for im in e.images offset:1 %}<a class="image-popup" href="{{ base_path }}/images/{{ im }}" title="{{ e.title | escape }}"><img src="{{ base_path }}/images/{{ im }}" alt="{{ e.title | escape }}" loading="lazy"></a>{% endfor %}
+</div>
+{% endif %}
+</div>
+{% endif %}
+<div class="pf-text">
+<h3>{{ e.title }}</h3>
+<p>{{ e.summary }}</p>
+{% if e.bullets %}<ul>{% for b in e.bullets %}<li>{{ b }}</li>{% endfor %}</ul>{% endif %}
+{% if e.outcome %}<p class="pf-outcome">{{ e.outcome }}</p>{% endif %}
+{% if e.tools %}<p class="pf-tools">{{ e.tools }}</p>{% endif %}
+{% if e.links %}<p class="pf-links">{% for l in e.links %}<a href="{{ l.url }}">{{ l.label }}</a>{% endfor %}</p>{% endif %}
+</div>
+</div>
+{% endfor %}
 {% endfor %}
