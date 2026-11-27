@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 <style>
   .pub-entry { display: flex; gap: 1.2em; align-items: flex-start; margin: 0 0 1.6em 0; font-size: 0.85em; }
-  .pub-thumb { flex: 0 0 170px; }
+  .pub-thumb { flex: 0 0 170px; cursor: zoom-in; }
+  .pub-thumb img:hover { opacity: 0.85; }
   .pub-thumb img { width: 170px; height: 110px; object-fit: cover; border-radius: 4px; border: 1px solid #e5e5e5; }
   .pub-text { flex: 1; }
   .pub-title { font-weight: 600; }
