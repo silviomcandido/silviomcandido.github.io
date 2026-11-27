@@ -1,43 +1,19 @@
 ---
-title: "Turbomachinery and Turbulent Mixing"
-excerpt: " Modelling of axial fans, disk turbines and mixing chambers, including rotating domains, turbulence and multiphase injection.
+title: "Turbulent Mixing and Turbomachinery"
+order: 5
+excerpt: "CFD of turbulent mixing and rotating machinery, including the gas-mixing uniformity of the CLOUD experiment chamber at CERN (MSc) and the flow inside a disk (Tesla) turbine.
 <br/><img src='/images/portfolio_turbo.PNG' alt='Turbomachinery and mixing simulation'>"
 collection: portfolio
 ---
 
-<br>
 <img src='/images/portfolio_turbo.PNG' alt='Turbomachinery and mixing simulation' style='width: 960px; height: auto;'>
 
-## Turbulent Mixing 
+### Projects
+- **CLOUD experiment chamber, CERN (MSc dissertation):** CFD of the mixing fans and gas injection in the CLOUD chamber, to assess and improve how uniformly gases mix inside it. [Dissertation](https://hdl.handle.net/10400.6/10068)
+- **Disk pump / Tesla turbine (research internship):** 3D flow structures between the rotating disks.
+- **Axial fans and mixing chambers:** rotating domains, turbulence modelling and multiphase injection.
 
-<p style="text-align: justify;">
-Mixing processes are widely used in the industry. Typically, the mixing corresponds to the manipulation of a heterogeneous physical system in order to achieve homogeneity. In many cases in the industry, the mixing of components is due to turbulent phenomena.
-The turbulent mixing is commonly described by two distinguished mixing scales. First is macro-mixing, which is characterized by the large scales of vortices that essentially distribute the diverse particles in the domain of the flow. In this scale is the inertial effects are important. Second is micro-mixing, where rates of molecular diffusivity of mass and momentum correlate with the time needed to diffuse the momentum into the target smallest turbulent flow eddies and, correspondingly, the mass into the target smallest concentration variation. Eventually, the effects can also be targeted at the molecular scale. 
-Between both mixing situations, we can also define meso-mixing; this is achieved by actuating typically on the turbulence. In this case, the turbulent kinetic energy at the feed point to the mixer must be enough to blend the added gas with the existing one.
-</p>
+<img src='/images/case_mixing.gif' alt='Turbulent mixing simulation' style='width: 960px; height: auto;'>
 
-## Governing Equations
-
-### Continuity equation:
-
-$$\frac{\partial \rho}{\partial t} + \nabla \cdot (\rho \mathbf{u}) = 0$$
-
-### Momentum equation:
-
-$$\frac{\partial}{\partial t} (\rho \mathbf{u}) + \nabla \cdot (\rho \mathbf{u} \mathbf{u}) = -\nabla P + \mu \nabla^2 \mathbf{u} + \nabla \cdot \boldsymbol{\tau_{\text{turb}}}$$
-
-### Turbulent kinetic energy equation:
-
-$$\frac{\partial}{\partial t} (\rho k) + \nabla \cdot (\rho \mathbf{u} k) =\nabla \cdot \left[ \left( \mu + \frac{\mu_t}{\sigma_k} \right) \nabla k \right] + P_k - \rho \varepsilon$$
-
-### Turbulent dissipation rate equation:
-
-$$\frac{\partial}{\partial t} (\rho \varepsilon) + \nabla \cdot (\rho \mathbf{u} \varepsilon) = \nabla \cdot \left[ \left( \mu + \frac{\mu_t}{\sigma_\varepsilon} \right) \nabla \varepsilon \right] + C_{\varepsilon 1} \frac{\varepsilon}{k} P_k - C_{\varepsilon 2} \rho \frac{\varepsilon^2}{k}$$
-
-
-<br>
-<img src='/images/case_mixing.gif' style='width: 960px; height: auto;'>
-
-
-<br/>[More information contact]<br/>
-email: silvio.candido@ubi.pt
+### Tools
+ANSYS Fluent, OpenFOAM, SolidWorks Flow Simulation.

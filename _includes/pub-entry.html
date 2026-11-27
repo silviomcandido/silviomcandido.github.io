@@ -1,0 +1,15 @@
+{% include base_path %}
+<div class="pub-entry">
+{% if post.thumb and include.compact != true %}
+<a class="pub-thumb" href="{{ post.paperurl }}"><img src="{{ base_path }}/images/{{ post.thumb }}" alt="Figure from: {{ post.title | escape }}" loading="lazy"></a>
+{% endif %}
+<div class="pub-text">
+<a class="pub-title" href="{{ post.paperurl }}">{{ post.title }}</a>{% if post.status %} <span class="pub-status">{{ post.status }}</span>{% endif %}<br>
+{{ post.authors }} ({{ post.date | date: "%Y" }}). <em>{{ post.venue }}</em>{% if post.venue_extra %}, {{ post.venue_extra }}{% endif %}.
+{% if post.summary and include.compact != true %}<div class="pub-summary">{{ post.summary }}</div>{% endif %}
+<div class="pub-links">
+{% if post.preprint %}<a href="{{ post.preprint }}">Preprint</a>{% else %}<a href="{{ post.paperurl }}">DOI</a>{% endif %}
+{% if post.pdf %} · <a href="{{ post.pdf }}">PDF</a>{% endif %}
+</div>
+</div>
+</div>

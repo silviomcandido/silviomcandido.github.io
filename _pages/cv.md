@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<i>Curriculum Vitae</i> <br> 🌱 <a href='/files/cv-SCandido.pdf'>PDF</a>"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<br>
+<p><a class="btn btn--primary" href="{{ base_path }}/files/cv-SCandido.pdf">Download CV (PDF)</a></p>
+
+**Mechanical engineer (PhD)** developing high-power thermal-fluid and multiphysics systems from proof of concept to integration. Combines engineering design with CFD, heat-transfer and thermo-mechanical analysis, custom solver development and data-driven models.
 
 Education
 ======
@@ -25,42 +27,52 @@ Education
 
 Experience
 ======
-* **Mechanical Engineer / CERN Fellow**, CERN, Geneva, Switzerland  
-  *Apr 2024–present*  
-  Design and multiphysics analysis of high-power beam-intercepting systems for next-generation particle accelerators. Work includes thermal-fluid system development, free-surface liquid-metal flows, conjugate heat transfer, thermal shock, structural assessment, two-phase flow and magnetohydrodynamics. Responsible for translating simulation results into engineering concepts, operating requirements and design recommendations.
+* **Mechanical Engineer (CERN Fellow)**, CERN, Geneva, Switzerland  
+  *Apr 2024–present* · High-power thermal-fluid, mechanical and systems engineering
+  * **Delivered the baseline absorber for a 370 kW photon beam** at CERN's next collider (FCC-ee): conceived the CUSP liquid-lead concept, iterating free-surface configurations until the flowing lead absorbs ~95% of the deposited power, and took it from numerical proof of concept (multiphase CFD, conjugate heat transfer, structural analysis) to integration in the collider complex.
+  * **Engineered the 300 kg/s liquid-lead circuit**: P&IDs, pipe sizing from flow and velocity limits, and hydraulic architecture (flow distribution, pumping, inventory, cover gas). Took part in the HAZOP as the system designer.
+  * **Specified component requirements and interfaces**, including the electromagnetic pump for a supplier manufacturing study, and the system functional requirements for the FMEA, working with physics, radiation protection, materials, integration and external partners.
+  * **Designed a graphite target for 2–4 MW pulsed beam loads**: helium-cooling optimisation, a titanium flow-guiding vessel, and verification of thermal stresses (ANSYS Mechanical) and thermal-shock stress waves (LS-DYNA).
+  * **Proposed a compact liquid-lead jet target for 20 T magnetic fields**, using magnetohydrodynamic CFD to quantify jet deformation, electromagnetic damping and stability.
 
-* **Mechanical Engineer R&D Consultant**, University of Beira Interior, Covilhã, Portugal  
-  *Jan 2024–Mar 2024*  
-  Developed computational workflows combining CFD, conjugate heat transfer, Python-based data processing and machine-learning models. The work focused on predicting thermal and flow fields, identifying hot spots and supporting the development of simulation-based industrial digital twins.
+* **R&D Engineer — Computational Modelling**, C-MAST, University of Beira Interior, Portugal  
+  *Jan 2024–Mar 2024*
+  * Developed a 3D electrospray model (OpenFOAM/C++) predicting plume development and droplet deposition, with space-charge electric field and Coulomb and image forces coupled to the turbulent gas flow.
+  * Optimised high-voltage ring electrodes for spray atomisation and plume control, validated against published experiments.
 
-* **PhD Researcher — Computational Multiphysics**, Foundation for Science and Technology (FCT) & University of Beira Interior, Covilhã, Portugal  
-  *Sep 2019–Dec 2023*  
-  Developed custom OpenFOAM solvers for electrohydrodynamic, capillary and multiphase flows. Conducted large-scale HPC simulations, model verification and validation, Python-based data analysis, and reduced-order and deep-learning surrogate modelling.
+* **Doctoral Researcher**, University of Beira Interior / FCT, Portugal  
+  *Sep 2019–Dec 2023*
+  * Developed and validated a 3D two-phase electrohydrodynamic solver (OpenFOAM/C++), within 2% of benchmarks and experiments.
+  * Developed an algorithm converting the broken-up liquid jet into individually tracked charged droplets, conserving mass, momentum and charge.
+  * Developed surrogate models (modal decomposition and deep learning), reproducing deposition areas within ~1% from 10% of the simulations; published and open source.
+  * Led the machine-learning development of an industrial digital twin for an automotive paint-curing oven.
+  * Principal Investigator of two competitive national supercomputing projects (MPI, SLURM).
 
-* **Visiting Doctoral Researcher**, West University of Timișoara, Faculty of Physics, Timișoara, Romania  
-  *May 2023*  
-  <i>Short-term doctoral mobility focused on Lattice Boltzmann Methods for fluid dynamics and GPU-based parallel computing for the acceleration of numerical simulations.</i>
+* **Visiting Doctoral Researcher**, Faculty of Physics, West University of Timișoara, Romania  
+  *May 2023* · Lattice Boltzmann methods and GPU-parallel computing.
 
-* **Research Intern**, University of Beira Interior, Covilhã, Portugal  
-  *Summer 2017*  
-  <i>Computational modelling of three-dimensional flow structures in a disk pump/Tesla turbine using SolidWorks.</i>
+* **Research Intern**, University of Beira Interior, Portugal  
+  *Summer 2017* · 3D flow structures in a disk pump / Tesla turbine.
+
+Open-source code
+======
+* [interIsoFoamEHD](https://github.com/silviomcandido/interIsoFoamEHD) — electrohydrodynamic two-phase solver (OpenFOAM/C++)
+* [electrostatic-spray-surrogate](https://github.com/silviomcandido/electrostatic-spray-surrogate) — surrogate models for electrostatic sprays (Python)
 
 Publications
 ======
-Selected key publications. The complete publication record is available on <u><a href="https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+The complete publication record is available on <u><a href="https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-* [**Design and modeling of a liquid-lead dump concept for beamstrahlung radiation absorption in the CERN Future Circular Electron–Positron Collider**](https://doi.org/10.48550/arXiv.2601.18470)  
-**Candido, S.**, Ximenes, R. F., Lechner, A., Frasca, A., Lerner, G., Marcone, A. P., et al. (2026). arXiv preprint, arXiv:2601.18470.  
+{% assign pubs = site.publications | sort: "date" | reverse %}
+<style>.pub-entry { margin-bottom: 0.9em; } .pub-status { font-size: 0.75em; padding: 0.1em 0.5em; border-radius: 3px; background: #e8f3ec; color: #1e6b3a; } .pub-title { font-weight: 600; } .pub-links { display: none; }</style>
 
-* [**Numerical investigation of electrospray plume control using high-voltage ring conductors**](https://doi.org/10.1016/j.jaerosci.2026.106814)  
-Benmoussa, A., **Candido, S.**, Pendar, M. R., & Páscoa, J. C. (2026). *Journal of Aerosol Science*, 106814.  
+**Journal articles**
 
-{% assign publications_sorted = site.publications | sort: "date" | reverse %}
-<ul>
-{% for post in publications_sorted %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-</ul>
+<div>{% for post in pubs %}{% if post.pubtype == "journal" %}{% include pub-entry.html compact=true %}{% endif %}{% endfor %}</div>
+
+**Conference proceedings**
+
+<div>{% for post in pubs %}{% if post.pubtype == "conference" %}{% include pub-entry.html compact=true %}{% endif %}{% endfor %}</div>
 
 Communications
 ======
@@ -76,12 +88,12 @@ M. Calviani & S. Candido (CERN), *Global Symposium on Lead and Lead Alloy Cooled
 
 Skills
 ======
-* **Simulation & Multiphysics:** CFD, CHT, multiphase flows, free-surface flows, turbulence modelling, heat transfer, thermo-mechanical analysis, FSI, MHD
-* **Software & Tools:** OpenFOAM, ANSYS Fluent, ANSYS Mechanical, LS-DYNA, SolidWorks, SolidWorks Flow Simulation, Basilisk
-* **Programming & Data:** Python, C++, MATLAB, SQL, TensorFlow, Power BI
-* **HPC & Workflows:** Linux, SLURM, parallel computing, automated post-processing, surrogate modelling
-* **Certifications:** Certified SolidWorks Associate (CSWA), Lean Six Sigma Yellow Belt
-* **Languages:** Portuguese, English, French
+* **Design & systems engineering:** concept design and trade-offs, requirements and interface definition, hydraulic loop sizing, P&IDs, HAZOP and FMEA input, technical specifications, CAD
+* **Thermal-fluid & structural analysis:** CFD, heat transfer, multiphase and liquid-metal flow, MHD, FEA, thermal stresses, explicit dynamics (shock)
+* **Engineering software:** ANSYS Fluent and Mechanical, LS-DYNA, OpenFOAM, Basilisk, SolidWorks, CATIA
+* **Programming & HPC:** Python, C++, MATLAB, machine learning (PyTorch, TensorFlow), Linux, MPI, SLURM
+* **Certifications & courses:** Certified SolidWorks Associate (CSWA), Lean Six Sigma Yellow Belt; CADFEM (ANSYS & Python), VKI (Machine Learning for CFD)
+* **Languages:** Portuguese (native), English (fluent, C1), French (A2)
 
 Service and Leadership
 ======

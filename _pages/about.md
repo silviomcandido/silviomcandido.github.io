@@ -34,6 +34,8 @@ redirect_from:
 </div>
 
 ## News
+**2026** — Paper published in *Physical Review Accelerators and Beams*: "Design and modeling of a liquid-lead dump concept for beamstrahlung radiation absorption in the CERN Future Circular Electron–Positron Collider" [DOI](https://doi.org/10.1103/t6qd-3g4k)
+
 [2026 IPAC 17th International Particle Accelerator Conference (IPAC)](https://www.ipac26.org/welcome/), Deauville, France : <br>
  - "Conceptual Comparison of Liquid Lead Flow Configurations for a Muon Collider" [DOI](https://www.ipac26.org/prepress/doi/jacow-ipac2026-mop7137/index.html) 
  - "Comparative conceptual designs of liquid lead absorbers for the FCC-ee beamstrahlung dump" [DOI](https://www.ipac26.org/prepress/doi/jacow-ipac2026-mop7139/index.html)  

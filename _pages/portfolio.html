@@ -7,41 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="portfolio-intro">
-  <p>
-    Selected engineering projects covering high-power thermal-fluid systems,
-    liquid-metal flows, electromagnetic multiphysics, numerical model development,
-    and data-driven engineering tools.
-  </p>
+<p>Selected engineering projects: high-power liquid-metal systems for particle accelerators at CERN, and earlier work on electrohydrodynamic flows, surrogate models and turbulent mixing.</p>
 
-  <h2>High-Power Thermal-Fluid and Multiphysics Systems</h2>
-
-  <p>
-    Analysis and design of engineering systems exposed to intense thermal
-    loads, involving liquid-metal and free-surface flows, multiphase CFD,
-    conjugate heat transfer, and electromagnetic effects.
-  </p>
-
-  <h3>ElectroJetFlow — Electrohydrodynamic Jet Flow Multiphysics Simulation</h3>
-
-  <p>
-    ElectroJetFlow was developed during my Ph.D. research to investigate
-    electrohydrodynamic jets, electrospray atomization, and electrically driven
-    multiphase flows. The project combines computational fluid dynamics,
-    interface-capturing methods, electrostatics, and Maxwell-stress modelling
-    to study jet formation, stability, breakup, and performance.
-  </p>
-
-  <p>
-    <a href="https://silviomcandido.github.io/webJet/index.html"
-       target="_blank"
-       rel="noopener noreferrer">
-      Visit the ElectroJetFlow project website
-    </a>
-  </p>
-</div>
-
-{% for post in site.portfolio %}
+{% assign projects = site.portfolio | sort: "order" %}
+{% for post in projects %}
   {% include archive-single.html %}
 {% endfor %}
-

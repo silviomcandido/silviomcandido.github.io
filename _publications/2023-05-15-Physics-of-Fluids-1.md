@@ -2,11 +2,15 @@
 title: "Dynamics of three-dimensional electrohydrodynamic instabilities on Taylor cone jets using a numerical approach"
 collection: publications
 permalink: /publication/2023-05-15-Physics-of-Fluids-1
-excerpt: " <br/><img src='/images/jet-3d-2023.gif' style='width: 600px; height: auto;'>"
 date: 2023-05-15
-venue: 'Physics of Fluids'
 paperurl: 'https://doi.org/10.1063/5.0151109'
 citation: 'Cândido, S., Páscoa, J. (2023). &quot;Dynamics of three-dimensional electrohydrodynamic instabilities on Taylor cone jets using a numerical approach&quot; <i>Physics of Fluids</i>. 35(5).'
+authors: '<b>Candido, S.</b>, & Páscoa, J.'
+venue: 'Physics of Fluids'
+venue_extra: '35(5)'
+pubtype: 'journal'
+thumb: 'jet-3d-2023.gif'
+summary: 'First fully coupled 3D simulations to capture the radial whipping instabilities of Taylor cone jets, validated against experiments.'
 ---
 
 <p style="text-align: justify;">
