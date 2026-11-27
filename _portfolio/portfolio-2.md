@@ -1,7 +1,7 @@
 ---
 title: "Electrohydrodynamic Multiphysics Modelling"
 excerpt: "Predict the deformation, instability, and breakup of electrically charged liquid jets. Developed a custom multiphase numerical model coupling fluid flow, electric fields, charge transport, and Maxwell forces.
-<br/><img src='/images/portfolio_ehd.PNG'>"
+<br/><img src='/images/portfolio_ehd.PNG' alt='Electrohydrodynamic jet simulation'>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ collection: portfolio
 Predict the deformation, instability, and breakup of electrically charged liquid jets. Developed a custom multiphase numerical model coupling fluid flow, electric fields, charge transport, and Maxwell forces.
 
 <br>
-<img src='/images/portfolio_ehd.PNG' style='width: 960px; height: auto;'>
+<img src='/images/portfolio_ehd.PNG' alt='Electrohydrodynamic jet simulation' style='width: 960px; height: auto;'>
 
 ### Challenge
 Predict the deformation, instability, atomization, and breakup of electrically charged liquid jets.

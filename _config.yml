@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sílvio Cândido"
 title_separator          : "-"
 name                     : &name "Sílvio Cândido"
-description              : &description "personal description"
+description              : &description "Sílvio Cândido, PhD — Mechanical engineer at CERN working on liquid-metal thermal hydraulics, magnetohydrodynamics and multiphysics CFD."
 url                      : https://silviomcandido.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "silviomcandido/silviomcandido.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Geneva, Switzerland"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.pt/citations?hl=pt-PT&user=SdNOWvEAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=en"
   email            : "silvio.candido@cern.ch"
   researchgate     :  "https://www.researchgate.net/profile/Silvio-Candido"
   uri              :

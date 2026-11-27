@@ -1,12 +1,12 @@
 ---
 title: "Turbomachinery and Turbulent Mixing"
 excerpt: " Modelling of axial fans, disk turbines and mixing chambers, including rotating domains, turbulence and multiphase injection.
-<br/><img src='/images/portfolio_turbo.PNG'>"
+<br/><img src='/images/portfolio_turbo.PNG' alt='Turbomachinery and mixing simulation'>"
 collection: portfolio
 ---
 
 <br>
-<img src='/images/portfolio_turbo.PNG' style='width: 960px; height: auto;'>
+<img src='/images/portfolio_turbo.PNG' alt='Turbomachinery and mixing simulation' style='width: 960px; height: auto;'>
 
 ## Turbulent Mixing 
 

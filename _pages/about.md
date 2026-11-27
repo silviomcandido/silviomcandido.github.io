@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome!"
-excerpt: "Welcome!"
+title: "About"
+excerpt: "Mechanical engineer at CERN working on liquid-metal thermal hydraulics, magnetohydrodynamics and multiphysics CFD for high-power beam-intercepting devices."
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
     }
   </style>
 
-# Hi, I’m Sílvio Cândido 👋 
+## Hi, I’m Sílvio Cândido 👋 
 
 **Mechanical Engineer, PhD** - **Thermal-Fluid and Multiphysics Systems**
 
@@ -25,15 +25,15 @@ redirect_from:
 - 🌊 My work focuses on **multiphysics simulations**, including **heat transfer**, **Electro-** and **Magnetohydrodynamics**, and **multiphase flow**. My background is in **Computational Fluid Dynamics** and **Multiphysics**.
 
 ## Projects 
-[**EletroJetFlow**](https://silviomcandido.github.io/webJet/index.html) - **Electrohydrodynamic Jet Flow Computational Simulation**
+[**ElectroJetFlow**](https://silviomcandido.github.io/webJet/index.html) - **Electrohydrodynamic Jet Flow Computational Simulation**
 - My PhD research project explored how electric fields can control/induce the atomization of liquid jets. The animation below illustrates a **Taylor cone jet**, a phenomenon central to electrohydrodynamic atomization and the main topic of my PhD work.
 
 
 <div style="text-align: center;">
-  <img src="/images/profile_anim_jet.gif" style="width: 60%; height: auto;">
+  <img src="/images/profile_anim_jet.gif" alt="Simulation of a Taylor cone jet forming under an electric field" style="width: 60%; height: auto;">
 </div>
 
-## NEWS
+## News
 [2026 IPAC 17th International Particle Accelerator Conference (IPAC)](https://www.ipac26.org/welcome/), Deauville, France : <br>
  - "Conceptual Comparison of Liquid Lead Flow Configurations for a Muon Collider" [DOI](https://www.ipac26.org/prepress/doi/jacow-ipac2026-mop7137/index.html) 
  - "Comparative conceptual designs of liquid lead absorbers for the FCC-ee beamstrahlung dump" [DOI](https://www.ipac26.org/prepress/doi/jacow-ipac2026-mop7139/index.html)  
@@ -51,7 +51,7 @@ redirect_from:
 Mechanical and system design · Thermal-fluid engineering · Multiphysics modelling · Numerical methods and validation
 
   <div class="container">
-    <a href="https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=pt-PT">
+    <a href="https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=en">
       <img src="https://img.shields.io/badge/googlescholar-4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar">
     </a>
     <a href="https://www.researchgate.net/profile/Silvio-Candido">

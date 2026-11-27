@@ -47,7 +47,7 @@ Experience
 
 Publications
 ======
-Selected key publications. The complete publication record is available on <u><a href="https://scholar.google.pt/citations?hl=pt-PT&user=SdNOWvEAAAAJ">my Google Scholar profile</a>.</u>
+Selected key publications. The complete publication record is available on <u><a href="https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 * [**Design and modeling of a liquid-lead dump concept for beamstrahlung radiation absorption in the CERN Future Circular Electron–Positron Collider**](https://doi.org/10.48550/arXiv.2601.18470)  
 **Candido, S.**, Ximenes, R. F., Lechner, A., Frasca, A., Lerner, G., Marcone, A. P., et al. (2026). arXiv preprint, arXiv:2601.18470.  
